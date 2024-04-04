@@ -1,7 +1,7 @@
 # Week_3_challenge
-Third challenge 
-For this challenge we are creating two bank accounts one savings and one cd
-which are instances of the Account class.
+### Third challenge: 
+   For this challenge we are creating two bank accounts one savings and one cd
+   which are instances of the Account class.
 
 ## Project modules:
 1) The Account module which hosts Account class and is 
